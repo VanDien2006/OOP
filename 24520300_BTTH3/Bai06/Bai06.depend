@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1745115706 source:c:\oop\24520300_btth3\bai06\main.cpp
+	<iostream>
+	"cListCandidate.h"
+
+1745113541 source:c:\oop\24520300_btth3\bai06\src\clistcandidate.cpp
+	"cListCandidate.h"
+	<iostream>
+
+1745057730 c:\oop\24520300_btth3\bai06\include\clistcandidate.h
+	"cCandidate.h"
+
+1745113202 source:c:\oop\24520300_btth3\bai06\src\ccandidate.cpp
+	"cCandidate.h"
+	<iostream>
+
+1745112665 c:\oop\24520300_btth3\bai06\include\ccandidate.h
+	<iostream>
+

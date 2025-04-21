@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1745119311 source:c:\oop\24520300_btth3\bai07\main.cpp
+	<iostream>
+	"cListNhanVienVP.h"
+
+1745118531 source:c:\oop\24520300_btth3\bai07\src\cnhanvienvp.cpp
+	"cNhanVienVP.h"
+	<iostream>
+
+1745117505 c:\oop\24520300_btth3\bai07\include\cnhanvienvp.h
+	<iostream>
+
+1745119305 source:c:\oop\24520300_btth3\bai07\src\clistnhanvienvp.cpp
+	"cListNhanVienVP.h"
+	<iostream>
+
+1745119305 c:\oop\24520300_btth3\bai07\include\clistnhanvienvp.h
+	"cNhanVienVP.h"
+

@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1745052009 source:c:\oop\24520300_btth3\bai05\main.cpp
+	<iostream>
+	"cDaThuc.h"
+
+1745052980 source:c:\oop\24520300_btth3\bai05\src\cdathuc.cpp
+	"cDaThuc.h"
+	<iostream>
+	<math.h>
+
+1745050983 c:\oop\24520300_btth3\bai05\include\cdathuc.h
+

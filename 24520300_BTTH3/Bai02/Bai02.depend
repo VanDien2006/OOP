@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1744853055 source:c:\oop\24520300_btth3\bai02\main.cpp
+	<iostream>
+	"cDaGiac.h"
+
+1744849253 source:c:\oop\24520300_btth3\bai02\src\diem.cpp
+	"Diem.h"
+	<iostream>
+	<math.h>
+	<iomanip>
+
+1744856721 c:\oop\24520300_btth3\bai02\include\diem.h
+
+1744855355 source:c:\oop\24520300_btth3\bai02\src\cdagiac.cpp
+	"cDaGiac.h"
+	"Diem.h"
+	<iostream>
+
+1744852776 c:\oop\24520300_btth3\bai02\include\cdagiac.h
+	"Diem.h"
+

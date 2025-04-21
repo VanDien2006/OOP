@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1745044607 source:c:\oop\24520300_btth3\bai04\main.cpp
+	<iostream>
+	"cArray.h"
+
+1744944561 c:\oop\24520300_btth3\bai04\include\carray.h
+
+1745045145 source:c:\oop\24520300_btth3\bai04\src\carray.cpp
+	"cArray.h"
+	<iostream>
+	<limits.h>
+

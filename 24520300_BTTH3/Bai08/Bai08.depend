@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1745222220 source:c:\oop\24520300_btth3\bai08\main.cpp
+	<iostream>
+	"cListNhanVienSX.h"
+
+1745121976 c:\oop\24520300_btth3\bai08\include\clistnhanviensx.h
+	"cNhanVienSX.h"
+
+1745121312 c:\oop\24520300_btth3\bai08\include\cnhanviensx.h
+	<iostream>
+
+1745222173 source:c:\oop\24520300_btth3\bai08\src\clistnhanviensx.cpp
+	"cListNhanVienSX.h"
+	<iostream>
+
+1745122001 source:c:\oop\24520300_btth3\bai08\src\cnhanviensx.cpp
+	"cNhanVienSX.h"
+	<iostream>
+
