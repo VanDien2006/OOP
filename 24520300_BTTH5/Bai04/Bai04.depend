@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1747478088 source:c:\oop\24520300_btth5\bai04\main.cpp
+	"CDate.h"
+	<iostream>
+
+1747478385 source:c:\oop\24520300_btth5\bai04\src\cdate.cpp
+	"CDate.h"
+	<iostream>
+	<iomanip>
+	<cmath>
+
+1747477229 c:\oop\24520300_btth5\bai04\include\cdate.h
+	<iostream>
+

@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1747540086 source:c:\oop\24520300_btth5\bai06\main.cpp
+	"CVector.h"
+	<iostream>
+
+1747554014 source:c:\oop\24520300_btth5\bai06\src\cvector.cpp
+	"CVector.h"
+	<iostream>
+
+1747554014 c:\oop\24520300_btth5\bai06\include\cvector.h
+	<iostream>
+

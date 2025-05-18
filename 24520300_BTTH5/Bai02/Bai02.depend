@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1747277043 source:c:\oop\24520300_btth5\bai02\main.cpp
+	"phanSo.h"
+	<iostream>
+
+1747277240 c:\oop\24520300_btth5\bai02\include\phanso.h
+	<iostream>
+
+1747276867 source:c:\oop\24520300_btth5\bai02\src\phanso.cpp
+	"phanSo.h"
+	<iostream>
+

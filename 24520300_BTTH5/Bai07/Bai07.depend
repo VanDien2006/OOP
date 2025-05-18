@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1747562662 source:c:\oop\24520300_btth5\bai07\main.cpp
+	<iostream>
+	"CMatrix.h"
+
+1747561057 c:\oop\24520300_btth5\bai07\include\cmatrix.h
+	<iostream>
+
+1747562762 source:c:\oop\24520300_btth5\bai07\src\cmatrix.cpp
+	"CMatrix.h"
+	<iostream>
+

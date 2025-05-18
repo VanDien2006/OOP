@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1747469142 source:c:\oop\24520300_btth5\bai03\main.cpp
+	"CTime.h"
+	<iostream>
+
+1747470729 source:c:\oop\24520300_btth5\bai03\src\ctime.cpp
+	"CTime.h"
+	<iomanip>
+
+1747471009 c:\oop\24520300_btth5\bai03\include\ctime.h
+	<iostream>
+
