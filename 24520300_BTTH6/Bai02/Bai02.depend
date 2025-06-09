@@ -1,0 +1,39 @@
+# depslib dependency file v1.0
+1749376873 source:c:\oop\24520300_btth6\bai02\main.cpp
+	<iostream>
+	"GD.h"
+	"GDDat.h"
+	"GDNhaPho.h"
+	"GDChungCu.h"
+
+1749349467 source:c:\oop\24520300_btth6\bai02\src\gdchungcu.cpp
+	"GDChungCu.h"
+	<iostream>
+
+1749349467 c:\oop\24520300_btth6\bai02\include\gdchungcu.h
+	<iostream>
+	"GD.h"
+
+1749376915 source:c:\oop\24520300_btth6\bai02\src\gddat.cpp
+	"GDDat.h"
+	<iostream>
+
+1749349575 c:\oop\24520300_btth6\bai02\include\gddat.h
+	<iostream>
+	"GD.h"
+
+1749349467 source:c:\oop\24520300_btth6\bai02\src\gdnhapho.cpp
+	"GDNhaPho.h"
+	<iostream>
+
+1749349467 c:\oop\24520300_btth6\bai02\include\gdnhapho.h
+	<iostream>
+	"GD.h"
+
+1749349467 source:c:\oop\24520300_btth6\bai02\src\gd.cpp
+	"GD.h"
+	<iostream>
+
+1749349620 c:\oop\24520300_btth6\bai02\include\gd.h
+	<iostream>
+

@@ -2,12 +2,12 @@
 <CodeBlocks_project_file>
 	<FileVersion major="1" minor="6" />
 	<Project>
-		<Option title="Bai07" />
+		<Option title="Bai04" />
 		<Option pch_mode="2" />
 		<Option compiler="gcc" />
 		<Build>
 			<Target title="Debug">
-				<Option output="bin/Debug/Bai07" prefix_auto="1" extension_auto="1" />
+				<Option output="bin/Debug/Bai04" prefix_auto="1" extension_auto="1" />
 				<Option object_output="obj/Debug/" />
 				<Option type="1" />
 				<Option compiler="gcc" />
@@ -17,7 +17,7 @@
 				</Compiler>
 			</Target>
 			<Target title="Release">
-				<Option output="bin/Release/Bai07" prefix_auto="1" extension_auto="1" />
+				<Option output="bin/Release/Bai04" prefix_auto="1" extension_auto="1" />
 				<Option object_output="obj/Release/" />
 				<Option type="1" />
 				<Option compiler="gcc" />
@@ -34,9 +34,13 @@
 			<Add option="-Wall" />
 			<Add option="-fexceptions" />
 		</Compiler>
-		<Unit filename="include/CMatrix.h" />
+		<Unit filename="include/KiemChungVien.h" />
+		<Unit filename="include/LapTrinhVien.h" />
+		<Unit filename="include/NhanVien.h" />
 		<Unit filename="main.cpp" />
-		<Unit filename="src/CMatrix.cpp" />
+		<Unit filename="src/KiemChungVien.cpp" />
+		<Unit filename="src/LapTrinhVien.cpp" />
+		<Unit filename="src/NhanVien.cpp" />
 		<Extensions>
 			<lib_finder disable_auto="1" />
 		</Extensions>

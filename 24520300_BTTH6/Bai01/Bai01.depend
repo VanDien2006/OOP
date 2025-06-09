@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1749345731 source:c:\oop\24520300_btth6\bai01\main.cpp
+	<iostream>
+	"NhanVien.h"
+	"NhanVienSX.h"
+	"NhanVienVP.h"
+
+1749346164 c:\oop\24520300_btth6\bai01\include\nhanvien.h
+	<iostream>
+
+1749345912 c:\oop\24520300_btth6\bai01\include\nhanviensx.h
+	"NhanVien.h"
+
+1749346164 c:\oop\24520300_btth6\bai01\include\nhanvienvp.h
+	<iostream>
+	"NhanVien.h"
+
+1749342251 source:c:\oop\24520300_btth6\bai01\src\nhanvien.cpp
+	"NhanVien.h"
+	<iostream>
+	<iomanip>
+
+1749343715 source:c:\oop\24520300_btth6\bai01\src\nhanviensx.cpp
+	"NhanVienSX.h"
+	"NhanVien.h"
+	<iomanip>
+	<iostream>
+
+1749343715 source:c:\oop\24520300_btth6\bai01\src\nhanvienvp.cpp
+	"NhanVienVP.h"
+	"NhanVien.h"
+	<iostream>
+

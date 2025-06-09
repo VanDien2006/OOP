@@ -1,0 +1,32 @@
+# depslib dependency file v1.0
+1749384473 source:c:\oop\24520300_btth6\bai03\main.cpp
+	<iostream>
+	"He.h"
+	"HeCD.h"
+	"HeDH.h"
+
+1749380573 source:c:\oop\24520300_btth6\bai03\src\hecd.cpp
+	"HeCD.h"
+	<iostream>
+	"He.h"
+
+1749380109 c:\oop\24520300_btth6\bai03\include\hecd.h
+	<iostream>
+	"He.h"
+
+1749380573 source:c:\oop\24520300_btth6\bai03\src\hedh.cpp
+	"HeDH.h"
+	<iostream>
+	"He.h"
+
+1749380080 c:\oop\24520300_btth6\bai03\include\hedh.h
+	<iostream>
+	"He.h"
+
+1749380757 source:c:\oop\24520300_btth6\bai03\src\he.cpp
+	"He.h"
+	<iostream>
+
+1749380090 c:\oop\24520300_btth6\bai03\include\he.h
+	<iostream>
+

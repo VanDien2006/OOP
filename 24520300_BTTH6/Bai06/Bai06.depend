@@ -1,0 +1,44 @@
+# depslib dependency file v1.0
+1749474134 source:c:\oop\24520300_btth6\bai06\main.cpp
+	<iostream>
+	"KhachHang.h"
+	"KhachA.h"
+	"KhachB.h"
+	"KhachC.h"
+	<iomanip>
+
+1749473193 c:\oop\24520300_btth6\bai06\include\khachhang.h
+	<iostream>
+
+1749473193 c:\oop\24520300_btth6\bai06\include\khacha.h
+	"KhachHang.h"
+	<iostream>
+
+1749473193 c:\oop\24520300_btth6\bai06\include\khachb.h
+	"KhachHang.h"
+	<iostream>
+
+1749473193 c:\oop\24520300_btth6\bai06\include\khachc.h
+	"KhachHang.h"
+	<iostream>
+
+1749474431 source:c:\oop\24520300_btth6\bai06\src\khachhang.cpp
+	"KhachHang.h"
+	<iostream>
+	<iomanip>
+
+1749473193 source:c:\oop\24520300_btth6\bai06\src\khacha.cpp
+	"KhachA.h"
+	"KhachHang.h"
+	<iostream>
+
+1749474124 source:c:\oop\24520300_btth6\bai06\src\khachc.cpp
+	"KhachC.h"
+	"KhachHang.h"
+	<iostream>
+
+1749474124 source:c:\oop\24520300_btth6\bai06\src\khachb.cpp
+	"KhachB.h"
+	"KhachHang.h"
+	<iostream>
+
